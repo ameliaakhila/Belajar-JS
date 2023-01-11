@@ -1,9 +1,9 @@
 const spaceship = {
-  name: "Millenium Falcon",
-  manufacturer: "Corellian Engineering Corporation",
-  maxSpeed: 1200,
-  color: "Light gray",
+  name: "Amelia Akhila",
+  manufacturer: "Front End Development",
+  maxSpeed: 1500,
+  color: "Light blue",
 };
 
-spaceship.name = "New Millenium Falcon"; // Error
+spaceship.name = "Amelia Cantik"; // Error
 console.log(spaceship);

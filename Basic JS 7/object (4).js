@@ -1,6 +1,6 @@
 const user = {
-  firstName: "Luke",
-  lastName: "Skywalker",
-  age: 19,
+  firstName: "Amelia",
+  lastName: "Akhila",
+  age: 18,
   isJedi: true,
 };

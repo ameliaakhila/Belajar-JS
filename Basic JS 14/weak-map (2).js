@@ -7,7 +7,7 @@ function countUser(user) {
   visitsCountMap.set(user, count + 1);
 }
 
-let jonas = { name: "Jonas" };
+let jonas = { name: "Amelia" };
 countUser(jonas); // Menambahkan user "Jonas"
 
 jonas = null; // Data object "Jonas" dihapus

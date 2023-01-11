@@ -1,19 +1,19 @@
 const spaceship = {
-  name: "Millenium Falcon",
-  manufacturer: "Corellian Engineering Corporation",
-  maxSpeed: 1200,
-  color: "Light gray",
+  name: "Amelia Cantik",
+  manufacturer: "Front End Development",
+  maxSpeed: 1500,
+  color: "Light blue",
 };
 
-spaceship.color = "Glossy red";
-spaceship["maxSpeed"] = 1300;
+spaceship.color = "Dark blue";
+spaceship["maxSpeed"] = 1500;
 console.log(spaceship);
 
 /* output
 {
-name: 'Millenium Falcon',
-manufacturer: 'Corellian Engineering Corporation',
-maxSpeed: 1300,
-color: 'Glossy red'
+name: 'Amelia Cantik',
+manufacturer: 'Front End Development',
+maxSpeed: 1500,
+color: 'Lght blue'
 }
 */
